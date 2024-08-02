@@ -94,5 +94,5 @@ class _NewViewState extends State<NewView> {
 }
 
 main() async {
-  return buildApp(home: NewView());
+  return runApp(MaterialApp(home: NewView()));
 }
