@@ -3,7 +3,7 @@ description: "Youtube Bottom Navigation View"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/youtube_bottom_navi_view_lego
 
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -15,20 +15,12 @@ dependencies:
   gap: #@add
   june_flow_util:
   styled_widget: #@add
-  modal_bottom_sheet: #@add
-  keyboard_attachable: #@add
-  flutter_zoom_drawer: #@add
-  flutter_screenutil:
   bot_toast:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints:
-  screenutil_lego: #@add
-  bot_toast_lego: #@add
-  widget_binding_lego: #@add
-
 flutter:
   assets:
     - assets/lego/youtube_bottom_navi_view_lego/

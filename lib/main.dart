@@ -7,7 +7,6 @@ import 'package:june_flow_util/june_flow_util.dart';
 export 'package:styled_widget/styled_widget.dart'; //@add
 export 'package:gap/gap.dart'; //@add
 export 'package:flutter_svg/svg.dart'; //@add
-export 'package:flutter_screenutil/flutter_screenutil.dart';
 
 main() {
   return runApp(MaterialApp(home: InitView(),));
